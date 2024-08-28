@@ -1,5 +1,6 @@
-[
-    {
+{
+    "employees": [
+      {
       "id": 1,
       "first_name": "Helenelizabeth",
       "last_name": "Avraam",
@@ -320,3 +321,4 @@
       "salary": 614798
     }
   ]
+}
